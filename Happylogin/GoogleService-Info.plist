@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>254234704530-ctvh3o3q77qpt5gpskenkrs6s8ppoufq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.254234704530-ctvh3o3q77qpt5gpskenkrs6s8ppoufq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNOoiKrf5c68g4uHMZDiPlzzIU53MiLYo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>254234704530</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abc.Happylogin</string>
+	<key>PROJECT_ID</key>
+	<string>happylogin-96f7e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>happylogin-96f7e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:254234704530:ios:e38b8cadc28369a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://happylogin-96f7e.firebaseio.com</string>
+</dict>
+</plist>
